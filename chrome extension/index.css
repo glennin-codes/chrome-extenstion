@@ -1,0 +1,63 @@
+body{
+    margin: 0;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    min-width: 400px;
+
+}
+input{
+    width:100%;
+    box-sizing: border-box;
+    height: 30px;
+    padding: 10px;
+    border: 1px solid #5F9341 ;
+}
+button{
+   background: #5F9341;
+   
+   margin-top:4px;
+   padding: 10px 20px;
+   border: none;
+   color: white;
+   font-weight: bold;
+   border: 1px solid #5F9341 ;
+   
+
+}
+#delete-btn{
+  background:white;
+  color: #5F9341;
+
+}
+
+ul{
+ margin-top: 20px;
+  list-style: none;
+  padding-left: 0;
+ 
+}
+li{
+    margin-bottom: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    
+
+}
+a{
+  color: #ec08a8;
+  text-decoration: none;
+border-bottom:1px solid #5F9341;
+
+}
+a:hover{
+  color:#3208ec  ;
+  border-bottom: 1px solid  #3208ec ;
+}
+a:visited{
+     color: #3208ec;
+}
+button:hover{
+border:1px solid #ff35ff;
+cursor: pointer;
+}
